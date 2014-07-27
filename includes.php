@@ -3,6 +3,7 @@
 <html>
     <head>
         <title>Centro Educativo de Panama</title>
+
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="" />
         <meta name="keywords" content="" />
@@ -18,6 +19,8 @@
             <link rel="stylesheet" href="css/style.css" />
             <link rel="stylesheet" href="css/style-desktop.css" />
             <link rel="stylesheet" href="css/style-noscript.css" />
+            
         </noscript>
         <!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+
     </head>

@@ -3,7 +3,7 @@
  
             
 <!-- Banner -->
-    <div class="wrapper style2">
+    <div class="container special">
         <h2><strong>SOBRE LA VESTIMENTA Y OTROS REQUERIMIENTOS</strong></h2>
         <span class="byline">
           

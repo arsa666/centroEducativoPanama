@@ -3,7 +3,7 @@
  
             
 <!-- Banner -->
-    <div id='banner' class="">
+    <article class='container special'>
         <h2><strong>MI DIA EN EL MADRESAH</strong></h2>
         <span>
             <table class='midia-table'>
@@ -40,7 +40,7 @@
 
             </table>
         </span>
-    </div>
+    </article>
 
 <?php require 'footer.php'?>
 

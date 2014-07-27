@@ -76,6 +76,7 @@
 		font-size: 1.5em;
 		margin-top: 1em;
 		line-height: 1.5em;
+		padding-bottom: 5px;
 	}
 
 	.byline p{
@@ -1060,7 +1061,7 @@
 	#header
 	{
 		position: relative;
-		background-image: url('../images/header_masjid.png');
+		background-image: url('../images/header_masjid2.png');
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -1180,6 +1181,7 @@
 		padding: 1.5em 0 1.5em 0;
 		z-index: 1;
 		overflow: hidden;
+		font-size:22px;
 	}
 	
 		#nav > ul
@@ -1389,7 +1391,7 @@
 	{
 		position: relative;
 		overflow: hidden;
-		padding: 6em 0 6em 0;
+		padding: 1em 0 1em 0;
 		background: #2b252c;
 		color: #fff;
 	}
@@ -1598,6 +1600,7 @@
 
 			.midia-table{
 				text-align: left;
+				margin:10px;
 			}
 
 			.midia-table td{
