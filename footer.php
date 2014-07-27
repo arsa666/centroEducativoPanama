@@ -10,7 +10,9 @@
                         <header>
                             <h2>Contactenos:</h2>
                         </header>
-                        <p>Telefono: </p>
+                        <p>Telefono: 2581527</p>
+                        <p>email: centroeducativodepanama@hotmail.com</p>
+
                         <h4>Oficina Administrativa</h4>
                         <div>Telefono: 2265021 </div>
                         <div>Dirección: Carrasquilla calle 85 al frente de la autoridad de aseo.</div>
