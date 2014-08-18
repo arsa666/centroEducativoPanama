@@ -1061,7 +1061,8 @@
 	#header
 	{
 		position: relative;
-		background-image: url('../images/header_masjid2.png');
+		background-image: url('../images/header_masjid.jpg');
+
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -1173,15 +1174,18 @@
 
 	#nav
 	{
-		position: absolute;
+		position: fixed;
 		top: 0;
 		left: 0;
 		width: 100%;
 		text-align: center;
-		padding: 1.5em 0 1.5em 0;
+		padding: 1.0em 0 1.0em 0;
 		z-index: 1;
 		overflow: hidden;
 		font-size:22px;
+		color:#000;
+
+		background-color: #FFF;
 	}
 	
 		#nav > ul
@@ -1607,4 +1611,10 @@
 				border: solid 1px;
 				padding-left: 10px;
 			}
+
+			.galeria-img{
+				width:350px;
+				height:200px;
+			}
+
 	

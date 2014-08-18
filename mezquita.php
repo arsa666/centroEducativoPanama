@@ -12,7 +12,7 @@
           <div> - 1,440.00 metros cuadrados de área de rezo con una capacidad de 2,000 personas.</div>
           <div> - 4 habitaciones de 40.00 m2 con sanitarios.</div>
           <div> - Comedor</div>
-          <div> - 4 habitaciones de 40.00 metros cuadrados con sus respectivos baños.</div>
+          
           <div> - Área de wudu para 108 personas.</div>
 
         </span>

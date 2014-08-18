@@ -13,11 +13,12 @@
                         <h4>Escuela</h4>
                         <div>Telefono: 2581527</div>
                         <div>email: centroeducativodepanama@hotmail.com</div>
-                        <div>Horario de llamadas: 11:30 AM hasta 1:00 PM y 4:25 PM hasta 5:25 PM</div>
+                        <div>Horario de llamadas: 7:00 AM hasta 11:00 AM y 2:00 PM hasta 4:00 PM</div>
                         <Br/>
                         <h4>Oficina Administrativa</h4>
                         <div>Telefono: 2265021 </div>
                         <div>Dirección: Carrasquilla calle 85 al frente de la autoridad de aseo.</div>
+			<div>Horario de llamadas: 8:00 AM hasta 3:00 PM</div>
                        <!-- <img src="images/administracion.jpg" alt="" /> ->
                         
                     </section>

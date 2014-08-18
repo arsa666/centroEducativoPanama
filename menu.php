@@ -19,6 +19,8 @@
             <li><a href="index.php">Inicio</a></li>
 
             <li><a href="mision.php">Misión</a></li>
+            <li><a href="galeria.php">Galería</a></li>
+
             <li>
                 <a href="#">Historia</a>
                 <ul>
@@ -33,18 +35,17 @@
                     <li><a href="mezquita.php">Mezquita</a></li>
                     <li><a href="escuela.php">Escuela</a></li>
                     <li><a href="residencia.php">Residencia</a></li>
-                    <li><a href="costo-construccion.php">Costo/Construcción</a></li>
-
-                </ul>
+               </ul>
             </li>
             <li>
-                <a href="#">Reglas</a>
-                <ul>
+                <a href="formulario-matricula.php">Formulario de Matricula Nueva</a>
+                <!--<ul>
                     <li><a href="guia-estudiantes.php">Guia para estudiantes</a></li>
                     <li><a href="dia-en-madresa.php">Mi dia en la escuela</a></li>
                     <li><a href="vestimenta-otros-requerimientos.php">Vestimenta y otro requerimientos</a></li>
                     <li><a href="formulario-matricula.php">Formulario de Matricula Nueva</a></li>
                 </ul>
+		-->
             </li>
             <li><a href="#footer">Contactenos</a></li>
         </ul>

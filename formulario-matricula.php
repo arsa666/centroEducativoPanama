@@ -8,7 +8,6 @@
         <span class="byline">
           <img class='border-2px' src='images/formulario1.png' />
           <img class='border-2px' src='images/formulario2.png' />
-          <img class='border-2px' src='images/formulario3.png' />            
         </span>
         <h3><a href='docs/formulario-matricula.pdf' class='link-color'>Bajar formulario en PDF</a></h3>
     </div>
