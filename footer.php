@@ -12,7 +12,7 @@
                         </header>
                         <h4>Escuela</h4>
                         <div>Telefono: 2581527</div>
-                        <div>email: centroeducativodepanama@hotmail.com</div>
+                        <div>email: info@centroeducativopanama.com</div>
                         <div>Horario de llamadas: 7:00 AM hasta 11:00 AM y 2:00 PM hasta 4:00 PM</div>
                         <Br/>
                         <h4>Oficina Administrativa</h4>
