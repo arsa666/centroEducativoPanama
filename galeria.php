@@ -6,15 +6,6 @@
     <div class="container special">
         <h2><strong>Galería</strong></h2>
         <span class="byline">
-        <img class='galeria-img' src='images/const1.JPG' />
-        <img class='galeria-img' src='images/const2.JPG' />
-        <img class='galeria-img' src='images/const3.JPG' />
-        <img class='galeria-img' src='images/const4.JPG' />
-        <img class='galeria-img' src='images/const5.JPG' />
-        <img class='galeria-img' src='images/const6.JPG' />
-        <img class='galeria-img' src='images/const7.JPG' />
-        <img class='galeria-img' src='images/const8.JPG' />
-        <img class='galeria-img' src='images/const9.JPG' />
         <img class='galeria-img' src='images/DSC01106.JPG' />
         <img class='galeria-img' src='images/DSC01107.JPG' />
         <img class='galeria-img' src='images/DSC01109.JPG' />
@@ -30,6 +21,15 @@
         <img class='galeria-img' src='images/DSC01520.JPG' />
         <img class='galeria-img' src='images/DSC01562.JPG' />
         <img class='galeria-img' src='images/DSC01568.JPG' />
+        <img class='galeria-img' src='images/const1.JPG' />
+        <img class='galeria-img' src='images/const2.JPG' />
+        <img class='galeria-img' src='images/const3.JPG' />
+        <img class='galeria-img' src='images/const4.JPG' />
+        <img class='galeria-img' src='images/const5.JPG' />
+        <img class='galeria-img' src='images/const6.JPG' />
+        <img class='galeria-img' src='images/const7.JPG' />
+        <img class='galeria-img' src='images/const8.JPG' />
+        <img class='galeria-img' src='images/const9.JPG' />      
         <img class='galeria-img' src='images/const10.jpg' />
         <img class='galeria-img' src='images/const11.jpg' />
         <img class='galeria-img' src='images/const12.jpg' />
@@ -44,6 +44,21 @@
         <img class='galeria-img' src='images/const21.jpg' />
         <img class='galeria-img' src='images/const22.jpg' />
         <img class='galeria-img' src='images/const23.jpg' />
+        <img class='galeria-img' src='images/const24.jpg' />
+        <img class='galeria-img' src='images/const26.jpg' />
+        <img class='galeria-img' src='images/const27.jpg' />
+        <img class='galeria-img' src='images/const28.jpg' />
+        <img class='galeria-img' src='images/const29.jpg' />
+        <img class='galeria-img' src='images/const32.jpg' />
+        <img class='galeria-img' src='images/const33.jpg' />
+        <img class='galeria-img' src='images/const34.jpg' />
+        <img class='galeria-img' src='images/const35.jpg' />
+        <img class='galeria-img' src='images/const36.jpg' />
+
+
+        <img class='galeria-img-long' src='images/const25.jpg' />
+        <img class='galeria-img-long' src='images/const30.jpg' />
+
 
 
 

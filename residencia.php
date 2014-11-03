@@ -15,6 +15,7 @@
           <div> - 2 estacionamientos techados</div>
         </span>
 
+        <h3>Status:</h3> <div>Bajo construccíon.</div>
         <img src='images/residencia.png' />
     </div>
        

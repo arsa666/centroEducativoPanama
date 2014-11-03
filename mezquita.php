@@ -16,7 +16,8 @@
           <div> - Área de wudu para 108 personas.</div>
 
         </span>
-
+        <h3>Status:</h3> <div>Bajo construccíon.</div>
+        
         <img src='images/masjid.png' />
     </div>
        

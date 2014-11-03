@@ -1062,7 +1062,6 @@
 	{
 		position: relative;
 		background-image: url('../images/header_masjid.jpg');
-
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -1617,4 +1616,8 @@
 				height:200px;
 			}
 
+			.galeria-img-long{
+				width:900px;
+				height:300px;
+			}
 	
